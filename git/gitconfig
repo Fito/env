@@ -61,8 +61,8 @@
   unwip = !"git log -n 1 | grep -q -c wip && git reset HEAD~1"
 
 [user]
-  name = Alan Ridlehoover
-  email = alan@ridlehoover.com
+  name = Fito von Zastrow
+  email = adolfovon@gmail.com
 [filter "media"]
 	required = true
 	clean = git media clean %f
